@@ -1,0 +1,10 @@
+.sidebar-settings {
+    background-color: black;
+    height: 100vh;
+    width: auto;
+    display: inline-block;
+}
+
+.item {
+    cursor: pointer;
+}
